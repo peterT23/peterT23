@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Typescript, NextJs**
  
-💞️ I found that coding is my passion and my love to pursue.
+💞️ I found that coding is my passion to pursue.
 
 
  </div>
